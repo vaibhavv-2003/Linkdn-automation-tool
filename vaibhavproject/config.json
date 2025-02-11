@@ -1,0 +1,13 @@
+{
+    "linkedin_email": "yourgmail",
+    "linkedin_password": "yourpassword",
+    "job_keyword": "Software Developer",
+    "location": "Bangalore",
+    "resume_path": "C:/path/to/your/resume.pdf",
+    "cold_message": "Subject: Unconventional, but impactful – from Vaibhav (and his automation tool)...",
+    "test_mode": false,
+    "witai_server_access_token": "BFGNQNFTD7A2JUWKXO5VU6TUJKMEBY3E",          
+    "google_gemini_api_key": "AIzaSyDCDypmf27lPDMyucrhWwsW-1ZJZREvqJc",
+    "use_witai": true,
+    "use_gemini": true
+}
